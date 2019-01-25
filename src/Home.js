@@ -4,7 +4,7 @@ import logo from './logo.svg';
 import './App.css';
 import Sanjeev from './sanjeev/Home';
 import Sumit from './sumit/Home';
-import Tarsem from './sanjeev/Home';
+import Tarsem from './tarsem/Home';
 
 class Home extends Component {
 

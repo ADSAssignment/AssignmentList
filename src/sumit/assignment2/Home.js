@@ -6,7 +6,7 @@ class Home extends Component {
   render() {
     return (
       <div>
-      	<h1>This is assignment 2 by Sanjeev</h1>
+      	<h1>This is assignment 2 by Sumit</h1>
       </div>
     );
   }

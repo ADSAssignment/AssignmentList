@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
-import Assignment1 from './assignment1/Navigation';
+import Assignment1 from './assignment1/Home';
 import Assignment2 from './assignment2/Home';
 
 
