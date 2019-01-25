@@ -1,4 +1,5 @@
 .nav-list{
+  display: block;
   top:20px;
   position: absolute;
   list-style-type: none;
